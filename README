@@ -1,0 +1,8 @@
+Artem Drobanov (artem.drobanov@gmail.com)
+
+Project: RARBase64 - Simple tool to create special Base64 stream,
+         which includes RAR5 archive with 100% recovery record,
+         which allow it fix errors during decode process (only file-level).
+         Console version of RAR5 must be placed to the folder with executable
+         before usage this program (RAR5 is not included).
+         Use drag & drop to process files.
